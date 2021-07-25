@@ -1,4 +1,8 @@
-### Hi there 👋
+Welcome to my old Github page!
+
+Please visit my new page instead at [https://github.com/rkraig](https://github.com/rkraig). I moved all my content there on 2021 July 25.
+
+I will remove this account soon in accordance with Github's username policies.
 
 <!--
 **orthonormalize/orthonormalize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
