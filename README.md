@@ -1,6 +1,6 @@
 Welcome to my old Github page!
 
-Please visit my new page instead at [https://github.com/rkraig](https://github.com/rkraig). I moved all my content there on 2021 July 25.
+Please visit my new page instead: [https://github.com/rkraig](https://github.com/rkraig). I moved all of my content there on 2021 July 25.
 
 I will remove this account soon in accordance with Github's username policies.
 
